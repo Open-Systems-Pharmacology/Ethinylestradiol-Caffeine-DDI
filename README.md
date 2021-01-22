@@ -1,6 +1,5 @@
 # Ethinylestradiol-Caffeine-DDI
 
-```
 Modeling of published clinical Ethinylestradiol-Caffeine-DDI studies for model evaluation.
 
 The repository contains a [PK-Sim snapshot (*.json) file](https://docs.open-systems-pharmacology.org/working-with-pk-sim/pk-sim-documentation/importing-exporting-project-data-models#exporting-project-to-snapshot-loading-project-from-snapshot) containing the respective simulations.
@@ -20,4 +19,3 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 
 ## License
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
-```
